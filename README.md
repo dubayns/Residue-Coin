@@ -8,7 +8,7 @@ This repository serves as the **official archive of the RC concept**, containing
 
 ---
 
-## 📄 Documents
+## Documents
 
 - `rc_whitepaper.md` – The core white paper detailing RC's vision, reward structure, regional residue model, and integration possibilities.
 - `faq.md` – (Coming soon) A companion document answering common questions about RC, PoP (proof of presence), and technical direction.
@@ -16,7 +16,7 @@ This repository serves as the **official archive of the RC concept**, containing
 
 ---
 
-## 🎯 Why RC?
+## Why RC?
 
 - **Human-first crypto**: RC rewards behaviors AI can’t perform — showing up.
 - **Complementary to Bittensor**: Where Bittensor captures artificial intelligence, RC captures authentic human location data as a parallel layer of value.
@@ -24,13 +24,13 @@ This repository serves as the **official archive of the RC concept**, containing
 
 ---
 
-## 📬 Contact
+## Contact
 
 For feedback, collaboration, or questions, please reach out directly or open an issue in this repo once it becomes public.
 
 ---
 
-## ⚖️ License
+## ⚖License
 
 This work is licensed under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 Attribution required. Non-commercial use only. All rights reserved by the original author.
