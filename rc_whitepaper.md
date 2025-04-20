@@ -4,9 +4,9 @@
 
 ## Overview
 
-Residue Coin (RC) is a presence-based cryptocurrency protocol built to reward and verify human activity in physical locations. It operates as a decentralized reputation and reward layer that validates proof of presence (PoP) data to mint regionally linked digital assets. RC is designed to be layered into the Bittensor ecosystem, enabling AI-based intelligence systems to gain insight from inherently human, non-replicable experiences.
+Residue Coin (RC) is a presence-based (proof of presence or PoP) cryptocurrency protocol built to reward and verify human activity in physical locations. It operates as a decentralized reputation and reward layer that validates proof of presence (PoP) data to mint regionally linked digital assets. RC is designed to be layered into the Bittensor ecosystem, enabling AI-based intelligence systems to gain insight from inherently human, non-replicable experiences like travel and spending time in certain locations.
 
-RC's purpose is to recognize and value real-world engagement. Unlike most forms of digital mining or AI training, RC accrues value from something artificial intelligence cannot do: **physically exist somewhere in the world.** This makes RC uniquely positioned to complement the data economy by embedding verifiable human presence into decentralized systems.
+RC's purpose is to recognize and convert the value of real-world engagement. Unlike most forms of digital mining or AI training, RC accrues value from something artificial intelligence cannot do: **physically existing somewhere in the world.** This makes RC uniquely positioned to complement the data economy by embedding verifiable human presence into decentralized systems.
 
 ---
 
